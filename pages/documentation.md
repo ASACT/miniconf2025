@@ -134,7 +134,7 @@ image:
 
 ### Thumbnails
 
-Thumbnails are used on archive pages like the [blog index][2]. They have a size of 150x150 pixels. Define them in front matter like this:
+Thumbnails are used on archive pages like the [blog index][2]. They have a size of 150x150 pixels. Define them in front matter like this
 
 ~~~
 image:
