@@ -26,10 +26,10 @@
   url: "/sponsors/"
   side: left
 
-- title: "Contact"
-  url: "/contact/"
-  side: left
-
 - title: History
   url: "/history/"
   side: left  
+
+- title: "Contact"
+  url: "/contact/"
+  side: left
