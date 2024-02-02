@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "The 22st ASA-CT Mini-Conference"
+title: "The 22nd ASA-CT Mini-Conference"
 header: no
 permalink: /index.html
 homepage: true
@@ -28,9 +28,8 @@ General Scientific theme here.
 
 + Registration for Virtual Participation Deadline: TBD.
 
+<!-- ---- -->
 
-----
+<!-- [Event Flyer](docs/2023_ASA_CT_MiniConference_Flyer.pdf)  -->
 
-[Event Flyer](docs/2023_ASA_CT_MiniConference_Flyer.pdf)
-
-----
+<!-- ---- -->
