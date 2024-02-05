@@ -15,7 +15,7 @@ permalink: /speakers/
 -->
 </h3>
 
-<h4>Will Shapiro</h4>
+<h4>Will Shapiro, Data Science and Machine Learning at Flatiron Health</h4>
 
 <p>
 <img class="imgfloat" src="../docs/Shapiro.tif"/>
