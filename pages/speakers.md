@@ -7,50 +7,55 @@ permalink: /speakers/
 
 <div id="speaker1" style="display: flex; flex-direction: column;">
 
-<h3>The Use of Real-World Evidence (RWE) in Health Technology Assessment (HTA) -- Opportunities and Challenges; 
+<h3>The Use of Real-World Evidence (RWE) in Health Technology Assessment (HTA) -- Opportunities and Challenges
+<!--
+	; 
 [<a href="../docs/slides/AM1-SreeramRamagopalan.pdf">Slides</a>], 
 [<a href="https://youtu.be/EFsl0mUbPIc" target="_blank">Recording</a>]
+-->
 </h3>
 
-<h4>Sreeram (Ram) Ramagopalan </h4>
+<h4>Will Shapiro</h4>
 
 <p>
-<img class="imgfloat" src="../docs/ram.PNG"/>
-Sreeram (Ram) Ramagopalan is currently a Research Fellow at the London School of Economics and Political Science. He has previously led Real World Evidence teams at Roche and Bristol Myers Squibb, focused on leveraging real-world evidence for Health Technology Assessment (HTA) to enable reimbursement of medicines. Ram holds a PhD in Epidemiology from the University of Oxford, as well as an MSc in Epidemiology from the London School of Hygiene and Tropical Medicine. He is an international expert in real world evidence with over 300 peer reviewed publications.
-
+<img class="imgfloat" src="../docs/will.PNG"/>
+Will Shapiro currently leads Data Insights Engineering at Flatiron, which encompasses data science, machine learning, artificial intelligence and product analytics. He became fascinated by machine learning while building personalization engines at Spotify, where he led AI teams focused on foundational research. He is a prolific inventor, with 11 (and counting) granted patents in AI, ML and personalization, as well as an author of a pivotal study that used listening behaviors to predict personality type. After experiencing firsthand the profound difference between biomarker-targeted cancer therapy and traditional chemotherapy, Will became passionate about the potential of personalized medicine - and in particular - ensuring that the future of medicine is personalized for everyone, not just the targets of traditional clinical trials.
 </p>
 
 
 <h4>Abstract</h4>
 
-Health Technology Assessment (HTA) is used as a tool to support evidence-based decision-making and to ensure scarce resources are efficiently spent. Real-world evidence (RWE) is used for different purposes in HTA, most importantly to estimate prevalence and/or incidence or to extrapolate short-term effectiveness beyond trial duration, but also to evaluate safety, resource use, costs or quality of life. Additionally, RWE is used to evaluate comparative effectiveness of MDs to support HTA. Observational studies of comparative effectiveness are, however, prone to several types of bias (e.g., selection bias, information bias, recall bias, and detection bias). For example, when observational studies fail to take into account confounding and effect modifying variables in the design or analysis, this may result in biased estimates of the effectiveness and cost-effectiveness of alternative health care interventions, which may lead to spending scarce resources sub-optimally. As a result, HTA agencies are reluctant to accept RWE as a measure of treatment effectiveness. This talk aims to cover methods development to address issues of bias and confounding for the wider acceptance of RWE by HTA agencies.  
+TBD
 
 </div>
 
 ----
 
-<div id="speaker2" style="display: flex; flex-direction: column;">
+<div id="speaker4" style="display: flex; flex-direction: column;">
 
-<h3>Introduction to Real-World Evidence and Artificial Intelligence in Healthcare and Drug Development; 
+<h3>Active and Federated Learning in Drug Discovery and Development
+<!--
+; 
 [<a href="../docs/slides/AM2-YahuiTian.pdf">Slides</a>], 
 [<a href="https://youtu.be/-5Qz8XppdnI" target="_blank">Recording</a>]
+-->
 </h3>
 
-<h4>Yahui Tian</h4>
+<h4>Dr. Christopher James Langmead, Scientific Executive Director at Amgen</h4>
 
 <p>
-<img class="imgfloat" src="../docs/Yahui.jpeg"/>
-Dr. Yahui Tian is currently working as a principal statistician and real-world evidence statistics advisor in the department of Biostatistics and Data Sciences in Boehringer Ingelheim. Dr. Tian gets her Ph.D. degree in Statistics from University of Texas at Dallas. Her current work mainly focus on innovative workstreams that leverage real-world data and advanced analytics (e.g., data mining and machine learning) to facilitate clinical drug development and other advancements in the life cycle of drug development.
+<img class="imgfloat" src="../docs/Chris.png"/>
+Dr. Langmead leads Amgen's efforts in the development and application of AI/ML-based methods for the discovery and optimization of biologics. His team at Amgen is involved with all stages of the pipeline. Prior to joining Amgen, Dr. Langmead was a tenured faculty member in the School of Computer Science at Carnegie Mellon University where his research concerned the development of Generative AI methods for the design of proteins, and algorithms for automatic scientific discovery and sequential optimization.
 </p>
 
 
 <h4>Abstract</h4>
 
-There has been an increasing interest in using real-world evidence (RWE) to support healthcare decision-making, drug development and regulatory submission in recent years. RWE provides useful insights to disease understanding, comparative effectiveness, treatment safety, data-driven clinical trial design and health economics. However, due to the high dimensionality, heterogeneity and sometimes sparsity of real-world data (RWD),  representation and modeling is challenging. Artificial intelligence (AI) is capable of handling these difficulties and extracting meaningful patterns from complex structured and unstructured data. AI includes a collection of machine learning and deep learning algorithms which have shown promising value and impressive results across a variety of disease areas. This presentation introduces general concepts and regulatory guidelines of RWE and AI in healthcare and drug development, detailed use cases are discussed to demonstrate design process and contribution to medical discovery. RWE and AI are transforming the way decisions are made in healthcare, facilitating evidence generation in the value chain of medical research and drug development.
+This presentation will discuss Amgen's use of Active and Federated Learning to enhance its Generative Biology platform for engineering biologics.
 
 </div>
 
-
+<!--
 
 ----
 
@@ -172,3 +177,6 @@ Joshua Warren is an Associate Professor in the Department of Biostatistics at th
 Meta-analyses and meta-regressions are becomingly increasingly common in infectious disease epidemiology for interpolating important measures across different spatial locations and time points. However, the standard methods of analysis often need to be extended to accommodate unique features of the collected data and to more directly answer primary hypotheses posed by the research group. In this talk, I discuss two recent examples where new statistical methodology within the hierarchical Bayesian framework was developed to (i) estimate the burden of tuberculosis in incarcerated persons and (ii) quantify the efficacy and effectiveness of a vaccine.      
 
 </div>
+
+
+-->
