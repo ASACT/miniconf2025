@@ -7,7 +7,7 @@ permalink: /speakers/
 
 <div id="speaker1" style="display: flex; flex-direction: column;">
 
-<h3>The Use of Real-World Evidence (RWE) in Health Technology Assessment (HTA) -- Opportunities and Challenges
+<h3>Scaling Insights in Cancer Care with Machine Learning
 <!--
 	; 
 [<a href="../docs/slides/AM1-SreeramRamagopalan.pdf">Slides</a>], 
@@ -18,7 +18,7 @@ permalink: /speakers/
 <h4>Will Shapiro</h4>
 
 <p>
-<img class="imgfloat" src="../docs/will.PNG"/>
+<img class="imgfloat" src="../docs/Will.png"/>
 Will Shapiro currently leads Data Insights Engineering at Flatiron, which encompasses data science, machine learning, artificial intelligence and product analytics. He became fascinated by machine learning while building personalization engines at Spotify, where he led AI teams focused on foundational research. He is a prolific inventor, with 11 (and counting) granted patents in AI, ML and personalization, as well as an author of a pivotal study that used listening behaviors to predict personality type. After experiencing firsthand the profound difference between biomarker-targeted cancer therapy and traditional chemotherapy, Will became passionate about the potential of personalized medicine - and in particular - ensuring that the future of medicine is personalized for everyone, not just the targets of traditional clinical trials.
 </p>
 

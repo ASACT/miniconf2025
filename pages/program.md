@@ -7,10 +7,6 @@ permalink: /program/
 
 All times are in EDT. 
 
-<!-- 
-<a href="https://youtube.com/playlist?list=PLbEvoL92vpoozbFp_x1c5uBBS9TSr7oQb" target="_blank">Recordings</a> are available.
--->
-
 + 8:30 am -- 9:00 am: Arrival/Breakfast
 
 + 9:00 am -- 9:15 am: Opening Remarks and Introduction of Speakers: Professor Kun Chen (ASA CT Chapter President)
@@ -34,6 +30,10 @@ All times are in EDT.
 + 3:45 pm -- 4:30 pm: Discussion Session, <a href="../speakers/#speaker5">  Yi Liu, ASA CT Chapter</a>
 
 + 4:30 pm -- 4:45 pm: Closing Remarks: Professor Kun Chen
+
+<!-- 
+<a href="https://youtube.com/playlist?list=PLbEvoL92vpoozbFp_x1c5uBBS9TSr7oQb" target="_blank">Recordings</a> are available.
+-->
 
 
 <!--
