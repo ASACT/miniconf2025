@@ -7,18 +7,13 @@ permalink: /speakers/
 
 <div id="speaker1" style="display: flex; flex-direction: column;">
 
-<h3>Scaling Insights in Cancer Care with Machine Learning
-<!--
-	; 
-[<a href="../docs/slides/AM1-SreeramRamagopalan.pdf">Slides</a>], 
-[<a href="https://youtu.be/EFsl0mUbPIc" target="_blank">Recording</a>]
--->
-</h3>
+<h3>Scaling Insights in Cancer Care with Machine Learning</h3>
 
 <h4>Will Shapiro, Data Science and Machine Learning at Flatiron Health</h4>
 
 <p>
-<img class="imgfloat" src="../docs/Shapiro.tif"/>
+<img class="imgfloat" src="../docs/Shapiro.jpg"/>
+
 Will Shapiro currently leads Data Insights Engineering at Flatiron, which encompasses data science, machine learning, artificial intelligence and product analytics. He became fascinated by machine learning while building personalization engines at Spotify, where he led AI teams focused on foundational research. He is a prolific inventor, with 11 (and counting) granted patents in AI, ML and personalization, as well as an author of a pivotal study that used listening behaviors to predict personality type. After experiencing firsthand the profound difference between biomarker-targeted cancer therapy and traditional chemotherapy, Will became passionate about the potential of personalized medicine - and in particular - ensuring that the future of medicine is personalized for everyone, not just the targets of traditional clinical trials.
 </p>
 
@@ -33,18 +28,13 @@ TBD
 
 <div id="speaker4" style="display: flex; flex-direction: column;">
 
-<h3>Active and Federated Learning in Drug Discovery and Development
-<!--
-; 
-[<a href="../docs/slides/AM2-YahuiTian.pdf">Slides</a>], 
-[<a href="https://youtu.be/-5Qz8XppdnI" target="_blank">Recording</a>]
--->
-</h3>
+<h3>Active and Federated Learning in Drug Discovery and Development</h3>
 
 <h4>Dr. Christopher James Langmead, Scientific Executive Director at Amgen</h4>
 
 <p>
 <img class="imgfloat" src="../docs/Chris.png"/>
+
 Dr. Langmead leads Amgen's efforts in the development and application of AI/ML-based methods for the discovery and optimization of biologics. His team at Amgen is involved with all stages of the pipeline. Prior to joining Amgen, Dr. Langmead was a tenured faculty member in the School of Computer Science at Carnegie Mellon University where his research concerned the development of Generative AI methods for the design of proteins, and algorithms for automatic scientific discovery and sequential optimization.
 </p>
 
