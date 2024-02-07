@@ -67,7 +67,7 @@ within the area of immune-oncology products.
 
 <h3>Active and Federated Learning in Drug Discovery and Development</h3>
 
-<h4>Dr. Christopher James Langmead, Scientific Executive Director at Amgen</h4>
+<h4>Christopher James Langmead, Scientific Executive Director at Amgen</h4>
 
 <p>
 <img class="imgfloat" src="../docs/Chris.png"/>
