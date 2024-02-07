@@ -26,6 +26,43 @@ TBD
 
 ----
 
+<div id="speaker2" style="display: flex; flex-direction: column;">
+
+<h3>Advancing Clinical Development through Real-World Data, AI and Machine Learning</h3>
+
+<h4>Harry Yang, Vice President of Biometrics at Recursion Pharmaceuticals</h4>
+
+<p>
+<img class="imgfloat" src="../docs/Harry.png"/>
+
+Harry Yang, Ph.D., is Vice President of Biometrics at Recursion Pharmaceuticals, following
+positions as VP of Biometrics at Fate Therapeutics and Head of Statistical Science at
+AstraZeneca and MedImmune. With 26 years of experience in small molecule, biologics, and
+cellular immunotherapy development, his expertise spans the therapeutics areas of
+transplantation, vaccine, autoimmune & inflammatory disease, oncology, and rare disease. Dr.
+Yang is well-versed in innovative trial design, regulatory submissions, real-world data utilization,
+and the integration of AI and machine learning in drug R&D. He is a prolific author, having
+published 8 books and over 130 articles and book chapters covering diverse statistical,
+scientific, and regulatory topics in drug R&D. Additionally, he serves as the Vice Chair of the USP
+Statistics Expert Committee.
+</p>
+
+
+<h4>Abstract</h4>
+
+In the ever-evolving landscape of biomedical research, the confluence of recent
+breakthroughs in real-world data (RWD), artificial intelligence (AI), and machine learning has
+paved the way for unlocking the untapped potential residing within the vast reservoirs of
+historical and ongoing clinical trial data. This presentation delves into the transformative power
+
+of these advancements, showcasing two use cases that illuminate the pivotal role of RWD and
+machine learning models in shaping and enhancing clinical development strategies, specifically
+within the area of immune-oncology products.
+
+</div>
+
+----
+
 <div id="speaker5" style="display: flex; flex-direction: column;">
 
 <h3>Active and Federated Learning in Drug Discovery and Development</h3>

@@ -15,7 +15,7 @@ All times are in EDT.
 
 + 9:30 am -- 12:20 pm: Scientific Session I
   - 9:30 am -- 10:10 am: Scaling Insights in Cancer Care with Machine Learning, <a href="../speakers/#speaker1">Will Shapiro, Flatiron Health</a>; 
-  - 10:10 am -- 10:50 am: Data Sciences, AI and Machine Learning in Drug Development, <a >Harry Yang, Fate Therapeutics</a>; 
+  - 10:10 am -- 10:50 am: Advancing Clinical Development through Real-World Data, AI and Machine Learning, <a href="../speakers/#speaker2">Harry Yang, Fate Therapeutics</a>; 
   - 10:50 am -- 11:00 am: Break  
   - 11:00 am -- 11:40 am: FDA’s Perspective on the Use of AI/ML in Drug Development, <a >Tala Fakhouri, US FDA</a>; 
   - 11:40 am -- 12:20 pm: TBD
