@@ -63,6 +63,27 @@ within the area of immune-oncology products.
 
 ----
 
+<div id="speaker4" style="display: flex; flex-direction: column;">
+
+<h3>Multimodal Integration in the Age of Million Cells and Billion Parameters</h3>
+
+<h4>Himel Mallick, Assistant Professor of Population Health Sciences, Division of Biostatistics, Weill Cornell Medicine, Cornell University</h4>
+
+<p>
+<img class="imgfloat" src="../docs/Himel.jpg"/>
+
+Himel Mallick is a data scientist and computational biologist with almost two decades of experience in Statistics, Biostatistics, and AI/ML in academia and industry. His methodological research interests are in Bayesian statistics, machine learning, and omics data science methods including multi-omics integration, microbiome, single-cell, spatial transcriptomics, imaging, and digital pathology. He has a highly cited publication track record with over 40+ publications in top-tier scientific journals including Nature and Lancet as well as top health science journals such as Statistics in Medicine and PLoS Computational Biology. He is the lead developer of several popular Bioconductor packages including MaAsLin2. He is a recipient of the IISA Early Career Award in Statistics in Data Sciences (ECASDS), a Fellow of the American Statistical Association (FASA) and an Elected Member of the International Statistical Institute.
+</p>
+
+
+<h4>Abstract</h4>
+
+Research in machine learning and data science is increasingly entering the realm of staggeringly large multiview data collections (concurrent measurements (views) collected on the same subjects from multiple sources). Fueled by an explosion in recent high-throughput and AI technologies, we are now ready to enter the world of personalized medicine and individualized solutions, where clinical or other non-therapeutic interventions can be custom-tailored to individuals to achieve better outcomes based on their multiview profiles. Although analyses of such multimodal datasets have the potential to provide new insights into the underlying mechanistic processes that cannot be inferred with a single modality, the integration of very large, complex, multimodal data represents a considerable statistical and computational challenge. An understanding of the principles of data integration and visualization methods is thus necessary to determine which methods are best applied to a particular integration problem. In this talk, I will discuss open challenges in multimodal integration, including methodological issues that must be resolved to establish the resources needed to move beyond incremental advances toward translational intervention while keeping machine learning and data science at the forefront of the next generation of multiview research.
+
+</div>
+
+----
+
 <div id="speaker5" style="display: flex; flex-direction: column;">
 
 <h3>Active and Federated Learning in Drug Discovery and Development</h3>

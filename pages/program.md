@@ -18,7 +18,7 @@ All times are in EDT.
   - 10:10 am -- 10:50 am: Advancing Clinical Development through Real-World Data, AI and Machine Learning, <a href="../speakers/#speaker2">Harry Yang, Fate Therapeutics</a>; 
   - 10:50 am -- 11:00 am: Break  
   - 11:00 am -- 11:40 am: FDA’s Perspective on the Use of AI/ML in Drug Development, <a >Tala Fakhouri, US FDA</a>; 
-  - 11:40 am -- 12:20 pm: TBD
+  - 11:40 am -- 12:20 pm: Multimodal Integration in the Age of Million Cells and Billion Parameters, <a href="../speakers/#speaker4">Himel Mallick, Cornell University</a>; 
 
 + 12:20 pm -– 1:30 pm: Lunch
 
