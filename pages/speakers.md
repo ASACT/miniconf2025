@@ -67,7 +67,7 @@ within the area of immune-oncology products.
 
 <h3>Multimodal Integration in the Age of Million Cells and Billion Parameters</h3>
 
-<h4>Himel Mallick, Assistant Professor of Population Health Sciences, Division of Biostatistics, Weill Cornell Medicine, Cornell University</h4>
+<h4>Himel Mallick, Assistant Professor in Department of Population Health Sciences, Weill Cornell Medicine, Cornell University</h4>
 
 <p>
 <img class="imgfloat" src="../docs/Himel.jpg"/>
