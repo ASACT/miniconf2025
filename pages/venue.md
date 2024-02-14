@@ -81,13 +81,11 @@ Conference, and show your ID. The Guard will direct you to the AOB Building. Par
 Visitor’s section. There will be a Visitor Badge for you with the Receptionist.
 
 <table>
-<tr>
 <td width="90%" style="vertical-align: top;" halign="center">
 <a href="https://asa-ct.github.io/miniconf2024/docs/BIpark.pdf" target="_blank" style="text-decoration:none;">
 <img src="https://asa-ct.github.io/miniconf2024/docs/BIpark.png"  width=440 height=460><p><i>Click on the map for a larger version.</i></p>
 </a>
 </td>
-</tr>
 </table>
 
 
