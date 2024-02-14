@@ -103,6 +103,54 @@ This presentation will discuss Amgen's use of Active and Federated Learning to e
 
 </div>
 
+----
+
+<div id="speaker6" style="display: flex; flex-direction: column;">
+
+<h3>Mapping the Mind: Modeling Brain Connectivity and Its Link to Behavior</h3>
+
+<h4>Yize Zhao, Associate Professor in the Department of Biostatistics, Yale School of Public Health, Yale University</h4>
+
+<p>
+<img class="imgfloat" src="../docs/Yize.jpg"/>
+
+Dr. Zhao is an Associate Professor in the Department of Biostatistics at Yale School of Public Health. She
+is also affiliated with Yale Center for Analytical Sciences, Yale Alzheimer&#39;s Disease Research Center, Yale
+Wu Tsai Institute, Yale Center for Brain and Mind Health and Yale Computational Biology and
+Bioinformatics. Her main research focuses on the development of statistical and machine learning
+methods to analyze large-scale complex data (imaging, -omics, EHRs), Bayesian methods, feature
+selection, predictive modeling, data integration, missing data and network analysis. She has strong
+interests in biomedical research areas including mental health, mental disorders and aging, etc.
+Her most recent research agenda includes analytical method development and applications on brain
+network analyses, multimodal imaging modeling, imaging genetics, and the integration of biomedical
+data with EHR data. Her research is supported by multiple NIH grants.
+</p>
+
+
+<h4>Abstract</h4>
+
+Brain functional connectivity or connectome, a unique measure for brain functional organization,
+provides a great potential to explain the neurobiological underpinning of behavioral profiles. In the first
+project, we study the complex impact of multi-state functional connectivity on behaviors by analyzing
+the data from a recent landmark brain development and child health study. We propose a
+nonparametric, Bayesian supervised heterogeneity analysis to uncover neurodevelopmental subtypes
+with distinct effect mechanisms. We impose stochastic block structures to identify network-based
+functional phenotypes and develop a variational expectation–maximization algorithm to facilitate an
+efficient posterior computation. Through integrating resting-state and task-related functional
+connectomes, we dissect heterogeneous effect mechanisms on children’s fluid intelligence from the
+functional network phenotypes including Fronto-parietal Network and Default Mode Network under
+different cognitive states. Based on extensive simulations, we further confirm the superior performance
+of our method on uncovering brain-to-behavior relationships. In the second project, we further
+incorporate the disease outcome, and proposed a mediation analysis to explore the effect mechanism
+among genetic exposure, structural connectivity and time to disease onset. Extensive simulations
+confirmed the superiority of our methods compared with existing alternatives. By applying the methods
+to landmark brain connectivity and Alzheimer’s disease studies, we obtained biologically plausible
+insights.
+
+</div>
+
+----
+
 <!--
 
 ----
