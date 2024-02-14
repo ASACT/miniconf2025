@@ -42,12 +42,9 @@ From New York: 684 to Danbury. Take I-84 East to Exit 2. Continue on Milestone R
 Take Old Ridgebury Rd. Turn left onto Briar Ridge Rd. Boehringer Ingelheim is on the
 right.
 
-<table>
-<td width="90%" style="vertical-align: top;" halign="center">
-<a href="https://asa-ct.github.io/miniconf2024/docs/BIpark.pdf" target="_blank" style="text-decoration:none;">
-<img src="https://asa-ct.github.io/miniconf2024/docs/BIpark.png"  width=440 height=460><p><i>Click on the map for a larger version. If you are planning to use a GPS app, the address is:<br>27 Briar Ridge Rd, Danbury, CT</i></p>
-</a>
-</table>
+
+If you are planning to use a GPS app, the address is: 27 Briar Ridge Rd, Danbury, CT.
+
 
 <!--
 
@@ -82,6 +79,13 @@ Drive into the Boehringer’s entrance via the North Security Gate. See photo ab
 and tell the guard your name, that you are a visitor, here to attend the ASA Mini
 Conference, and show your ID. The Guard will direct you to the AOB Building. Park in the
 Visitor’s section. There will be a Visitor Badge for you with the Receptionist.
+
+<table>
+<td width="90%" style="vertical-align: top;" halign="center">
+<a href="https://asa-ct.github.io/miniconf2024/docs/BIpark.pdf" target="_blank" style="text-decoration:none;">
+<img src="https://asa-ct.github.io/miniconf2024/docs/BIpark.png"  width=440 height=460><p><i>Click on the map for a larger version.</i></p>
+</a>
+</table>
 
 
 Someone will pick you up at Reception to bring you to the ASA Mini Conference.
