@@ -5,7 +5,6 @@ header: no
 permalink: /registration/
 ---
 
-<!-- 
 - ASA member:
     - $25 for online participation
     - $50 for in-person participation 
@@ -15,5 +14,4 @@ permalink: /registration/
     - $70 for in-person participation 
 
 
-Registration is now open through [eventbrite](https://www.eventbrite.com/e/21st-annual-asa-connecticut-chapter-mini-conference-tickets-533772978347). 
--->
+Registration is now open through [eventbrite](https://www.eventbrite.com/e/22nd-annual-asa-connecticut-chapter-mini-conference-tickets-837779831027?aff=oddtdtcreator). 

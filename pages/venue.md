@@ -5,6 +5,16 @@ header: no
 permalink: /venue/
 ---
 
+The conference will be hybrid, with in-person sessions held at the Boehringer Ingelheim
+site in Ridgefield, CT.
+
+<ul>
+<li>All sessions will be hybrid and broadcasted live via Zoom (or MS Teams). The zoom
+(or MS Teams) link and password for virtual attendance will be sent to registrants
+before the event.</li>
+<li>If you are attending in-person, <span style="background-color:#F8F7B1;">you must show a valid photo ID (e.g., a driver license) to be admitted onto the Boehringer Ingelheim site.</span></li>
+</ul>
+
 <!--
 
 The conference will be hybrid, with in-person sessions held in [Pfizer Research Site](https://www.pfizer.com/groton-connecticut) in Groton CT.
@@ -18,9 +28,22 @@ The conference will be hybrid, with in-person sessions held in [Pfizer Research 
 
 -->
 
-## Directions to Boehringer Ingelheim and Parking
+## Directions to Boehringer and Parking
 
 ### Directions
+
+From Connecticut: I-84 West Use the right lane to exit toward US 6. Keep right at the
+fork to continue on Exit 2A. Follow signs for Old Ridgebury Rd and merge onto Old
+Ridgebury Rd. Turn left onto Briar Ridge Rd. Boehringer Ingelheim is on the right.
+
+
+From New York: 684 to Danbury. Take I-84 East to Exit 2. Continue on Milestone Rd.
+Take Old Ridgebury Rd. Turn left onto Briar Ridge Rd. Boehringer Ingelheim is on the
+right.
+
+
+If you are planning to use a GPS app, the address is: 27 Briar Ridge Rd, Danbury, CT
+
 <!--
 
 Pfizer is off of Exit 87 on Interstate 95 in Groton CT, just under 3 miles from there.  (Note that if you are heading southbound, Exit 87 is a <i>left-lane</i> exit.  Northbound, it is a right-lane exit.)
@@ -48,6 +71,15 @@ After the left turn onto Eastern Point Road, the next traffic light will be Pfiz
 -->
 
 ### Parking
+
+Drive into the Boehringer’s entrance via the North Security Gate. See photo above. Stop
+and tell the guard your name, that you are a visitor, here to attend the ASA Mini
+Conference, and show your ID. The Guard will direct you to the AOB Building. Park in the
+Visitor’s section. There will be a Visitor Badge for you with the Receptionist.
+
+
+Someone will pick you up at Reception to bring you to the ASA Mini Conference.
+
 <!--
 Drive onto the Pfizer entrance road, getting in the right lane; see photo above.  The Pfizer security guard in the right-lane booth ("North Gate 1") will have a Visitor Badge for you.  Stop and tell the guard your name, that you are a visitor, here to attend the ASA Mini Conference, and show your ID.  
 
