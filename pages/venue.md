@@ -45,8 +45,8 @@ right.
 <table>
 <tr>
 <td width="55%" style="vertical-align: top;" halign="center">
-<a href="https://asa-ct.github.io/miniconf2024/docs/BIpark.png" target="_blank" style="text-decoration:none;">
-<img src="https://asa-ct.github.io/miniconf2024/docs/BIpark.png"  width=440 height=460><p><i>Click on the map for a larger version.</i></p>
+<a href="https://asa-ct.github.io/miniconf2024/docs/BIpark.pdf" target="_blank" style="text-decoration:none;">
+<img src="https://asa-ct.github.io/miniconf2024/docs/BIpark.pdf"  width=440 height=460><p><i>Click on the map for a larger version.</i></p>
 </a>
 <p><i>If you are planning to use a GPS app, the address is:<br>27 Briar Ridge Rd, Danbury, CT</i></p>
 </tr>
