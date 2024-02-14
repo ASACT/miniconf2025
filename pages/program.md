@@ -11,7 +11,7 @@ All times are in EDT.
 
 + 8:30 am -- 9:30 am: Refreshment
 
-+ 9:00 am -- 9:10 am: Opening Remarks: Mary Zhao (ASA CT Chapter Vice President);
++ 9:00 am -- 9:10 am: Opening Remarks: <a>Mary Zhao, ASA CT Chapter Vice President</a>
 
 + 9:10 am -- 12:00 pm: Scientific Session I
   - 9:10 am -- 9:50 am: Scaling Insights in Cancer Care with Machine Learning, <a href="../speakers/#speaker1">Will Shapiro, Flatiron Health</a>; 
@@ -31,4 +31,4 @@ All times are in EDT.
 
 + 3:50 pm -- 4:15 pm: Discussion, <a>Yi Liu, ASA CT Chapter Secretary</a>
 
-+ 4:15 pm -- 4:30 pm: Closing Remarks: Professor Kun Chen
++ 4:15 pm -- 4:30 pm: Closing Remarks: <a>Professor Kun Chen</a>
