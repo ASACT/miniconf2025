@@ -30,7 +30,8 @@ The conference will be hybrid, with in-person sessions held in [Pfizer Research 
 
 ## Directions to Boehringer and Parking
 
-### Directions
+### Directions
+
 
 From Connecticut: I-84 West Use the right lane to exit toward US 6. Keep right at the
 fork to continue on Exit 2A. Follow signs for Old Ridgebury Rd and merge onto Old
@@ -41,8 +42,16 @@ From New York: 684 to Danbury. Take I-84 East to Exit 2. Continue on Milestone R
 Take Old Ridgebury Rd. Turn left onto Briar Ridge Rd. Boehringer Ingelheim is on the
 right.
 
-
-If you are planning to use a GPS app, the address is: 27 Briar Ridge Rd, Danbury, CT
+<table>
+<tr>
+<td width="55%" style="vertical-align: top;" halign="center">
+<a href="https://asa-ct.github.io/miniconf2023/docs/BIpark.png" target="_blank" style="text-decoration:none;">
+<img src="https://asa-ct.github.io/miniconf2023/docs/BIpark.png"  width=440 height=460><p><i>Click on the map for a larger version.</i></p>
+</a>
+<p><i>If you are planning to use a GPS app, the address is:<br>27 Briar Ridge Rd, Danbury, CT</i></p>
+</tr>
+</table>
+<br>
 
 <!--
 
@@ -70,7 +79,8 @@ After the left turn onto Eastern Point Road, the next traffic light will be Pfiz
 
 -->
 
-### Parking
+### Parking
+
 
 Drive into the Boehringer’s entrance via the North Security Gate. See photo above. Stop
 and tell the guard your name, that you are a visitor, here to attend the ASA Mini
