@@ -5,6 +5,8 @@ header: no
 permalink: /sponsors/
 ---
 
++ [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)
+
 <!--
 
 + [Pfizer](https://www.pfizer.com)
