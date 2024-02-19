@@ -17,13 +17,13 @@ All times are in EDT.
   - 9:10 am -- 9:50 am: Scaling Insights in Cancer Care with Machine Learning, <a href="../speakers/#speaker1">Will Shapiro, Flatiron Health</a>; 
   - 9:50 am -- 10:30 am: Advancing Clinical Development through Real-World Data, AI and Machine Learning, <a href="../speakers/#speaker2">Harry Yang, Fate Therapeutics</a>; 
   - 10:30 am -- 10:40 am: Break  
-  - 10:40 am -- 11:20 am: FDA’s Perspective on the Use of AI/ML in Drug Development, <a>Tala Fakhouri, US FDA</a>; 
-  - 11:20 am -- 12:00 pm: Multimodal Integration in the Age of Million Cells and Billion Parameters, <a href="../speakers/#speaker4">Himel Mallick, Cornell University</a>; 
+  - 10:40 am -- 11:20 am: Methods and Applications of AI/ML in Drug Discover, <a href="../speakers/#speaker3">Christopher Langmead, Amgen</a>;
+  - 11:20 am -- 12:00 pm: FDA’s Perspective on the Use of AI/ML in Drug Development, <a>Tala Fakhouri, US FDA</a>;  
 
 + 12:00 pm -– 1:00 pm: Lunch
 
 + 1:00 pm -- 3:50 pm: Scientific Session II
-  - 1:00 pm -- 1:40 pm: Methods and Applications of AI/ML in Drug Discover, <a href="../speakers/#speaker5">Christopher Langmead, Amgen</a>; 
+  - 1:00 pm -- 1:40 pm: Multimodal Integration in the Age of Million Cells and Billion Parameters, <a href="../speakers/#speaker5">Himel Mallick, Cornell University</a>;
   - 1:40 pm -- 2:20 pm: Mapping the Mind: Modeling Brain Connectivity and Its Link to Behavior, <a href="../speakers/#speaker6">Yize Zhao, Yale University</a>;
   - 2:20 pm -- 2:30 pm: Break
   - 2:30 pm -- 3:10 pm: <a>Ken Cheung, Columbia University</a>;

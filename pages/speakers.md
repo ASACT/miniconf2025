@@ -63,7 +63,28 @@ within the area of immune-oncology products.
 
 ----
 
-<div id="speaker4" style="display: flex; flex-direction: column;">
+<div id="speaker3" style="display: flex; flex-direction: column;">
+
+<h3>Active and Federated Learning in Drug Discovery and Development</h3>
+
+<h4>Christopher James Langmead, Scientific Executive Director at Amgen</h4>
+
+<p>
+<img class="imgfloat" src="../docs/Chris.png"/>
+
+Dr. Langmead leads Amgen's efforts in the development and application of AI/ML-based methods for the discovery and optimization of biologics. His team at Amgen is involved with all stages of the pipeline. Prior to joining Amgen, Dr. Langmead was a tenured faculty member in the School of Computer Science at Carnegie Mellon University where his research concerned the development of Generative AI methods for the design of proteins, and algorithms for automatic scientific discovery and sequential optimization.
+</p>
+
+
+<h4>Abstract</h4>
+
+This presentation will discuss Amgen's use of Active and Federated Learning to enhance its Generative Biology platform for engineering biologics.
+
+</div>
+
+----
+
+<div id="speaker5" style="display: flex; flex-direction: column;">
 
 <h3>Multimodal Integration in the Age of Million Cells and Billion Parameters</h3>
 
@@ -82,26 +103,6 @@ Research in machine learning and data science is increasingly entering the realm
 
 </div>
 
-----
-
-<div id="speaker5" style="display: flex; flex-direction: column;">
-
-<h3>Active and Federated Learning in Drug Discovery and Development</h3>
-
-<h4>Christopher James Langmead, Scientific Executive Director at Amgen</h4>
-
-<p>
-<img class="imgfloat" src="../docs/Chris.png"/>
-
-Dr. Langmead leads Amgen's efforts in the development and application of AI/ML-based methods for the discovery and optimization of biologics. His team at Amgen is involved with all stages of the pipeline. Prior to joining Amgen, Dr. Langmead was a tenured faculty member in the School of Computer Science at Carnegie Mellon University where his research concerned the development of Generative AI methods for the design of proteins, and algorithms for automatic scientific discovery and sequential optimization.
-</p>
-
-
-<h4>Abstract</h4>
-
-This presentation will discuss Amgen's use of Active and Federated Learning to enhance its Generative Biology platform for engineering biologics.
-
-</div>
 
 ----
 

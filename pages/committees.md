@@ -7,12 +7,12 @@ permalink: /committees/
 
 
 #### Program Committee
-+ Yi Liu, Boehringer Ingelheim
++ [Yi Liu](https://www.linkedin.com/in/yi-liu-bb580932/), Boehringer Ingelheim
 + [Guangyu (Tony) Tong](https://ysph.yale.edu/profile/guangyu-tong/), Yale University
 + [Yihua (Mary) Zhao](https://www.linkedin.com/in/yihua-zhao-889a1611/), Flatiron Health 
 
 #### Local Organizer
-+ Yi Liu, Boehringer Ingelheim
++ [Yi Liu](https://www.linkedin.com/in/yi-liu-bb580932/), Boehringer Ingelheim
 
 #### Finance & Registration
 + [Guanyu (Tony) Tong](https://ysph.yale.edu/profile/guangyu-tong/), Yale University
