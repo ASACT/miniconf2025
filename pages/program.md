@@ -26,8 +26,8 @@ All times are in EDT.
   - 1:00 pm -- 1:40 pm: Multimodal Integration in the Age of Million Cells and Billion Parameters, <a href="../speakers/#speaker5">Himel Mallick, Cornell University</a>;
   - 1:40 pm -- 2:20 pm: Mapping the Mind: Modeling Brain Connectivity and Its Link to Behavior, <a href="../speakers/#speaker6">Yize Zhao, Yale University</a>;
   - 2:20 pm -- 2:30 pm: Break
-  - 2:30 pm -- 3:10 pm: <a>Ken Cheung, Columbia University</a>;
-  - 3:10 pm -- 3:50 pm: <a>Dacheng Liu, Boehringer Ingelheim</a>;
+  - 2:30 pm -- 3:10 pm: PIPE: a Bayesian Projection-Based Method to Estimate Multidimensional Minimum Effective Doses Using Asymmetric Posterior Gain and ϵ-Tapering, <a href="../speakers/#speaker7">Ken Cheung, Columbia University</a>;
+  - 3:10 pm -- 3:50 pm: Clinical Drug Developments: Challenges and Data Science Applications, <a href="../speakers/#speaker8">Dacheng Liu, Boehringer Ingelheim</a>;
 
 + 3:50 pm -- 4:15 pm: Discussion, <a>Yi Liu, ASA CT Chapter Secretary</a>
 

@@ -152,6 +152,95 @@ insights.
 
 ----
 
+
+<div id="speaker7" style="display: flex; flex-direction: column;">
+
+<h3>PIPE: a Bayesian Projection-Based Method to Estimate Multidimensional Minimum Effective Doses Using Asymmetric Posterior Gain and ϵ-Tapering</h3>
+
+<h4>Ying Kuen (Ken) Cheung, Professor of Biostatistics in the Mailman School of Public Health, Columbia University</h4>
+
+<p>
+<img class="imgfloat" src="../docs/Ying.tif"/>
+
+Ying Kuen (Ken) Cheung, PhD, is Professor of Biostatistics in the Mailman School of Public
+Health at Columbia University. He has general interests in the development and evaluation of
+evidence-based treatments, interventions and policies at all phases of translational research.
+He is an expert in adaptive designs in clinical trials of treatments for cancer, stroke, neurological
+disorders, cardiovascular diseases, and mental health, SMART designs for behavioral
+intervention technologies, N-of-1 personalized trials, implementation study designs, and the
+analysis of high dimensional behavioral data. An overarching goal of his research and
+professional activities is to advance precision medicine and digital health (e.g., mobile health
+apps, Internet of Things) using data science and biostatistical methods. He is a recipient of IBM
+Faculty Award on Big Data and Analytics. He is a Fellow of the American Statistical Association,
+and a Fellow of the New York Academy of Medicine.
+</p>
+
+
+<h4>Abstract</h4>
+
+This work is motivated by evaluation of multi-component treatment in randomized
+trials where there are many combinations and where each component is expected to have a
+monotone effect on outcomes. We propose a Bayesian projection-based method (called PIPE)
+to estimate the minimum effective combinations and apply an inversion approach (called iPIPE)
+to obtain interval estimation. While monotone regression in the literature typically addresses
+problems with low dimension (4 or fewer components), computation of PIPE/iPIPE can be easily
+scaled for situations with higher dimension. We also introduce an adaptive ϵ-tapering algorithm
+to be used in conjunction with PIPE to further improve accuracy. I will illustrate the methods in a
+behavioral trial and an mHealth study. This work is based on Cheung et al (2022, AOAS) and
+Cheung and Diaz (2023, JRSS-B)
+
+</div>
+
+----
+
+<div id="speaker8" style="display: flex; flex-direction: column;">
+
+<h3>Clinical Drug Developments: Challenges and Data Science Applications</h3>
+
+<h4>Dacheng Liu, Highly Distinguished Therapeutic Area and Methodology Statistician, Boehringer Ingelheim</h4>
+
+<p>
+<img class="imgfloat" src="../docs/Dacheng.jpg"/>
+
+Dacheng Liu serves as the Highly Distinguished Therapeutic Area and Methodology
+Statistician at Boehringer Ingelheim with 18 years of experience in the pharmaceutical
+industry. In this role, he provides leadership in driving the statistical quality and fostering
+innovation of companywide clinical development programs. As the chair of the statistical
+strategy and review committee, he is instrumental in shaping the organization’s
+statistical practices. Dacheng represents Boehringer Ingelheim at industry-wide groups,
+such as PhRMA clinical development working group, and leads collaborations with
+partners in the US from both industry and academia.
+
+Prior to his current role, Dacheng served as the Global Head of Clinical Data Sciences,
+and the US Head of Statistics, leading both US and global teams in clinical drug
+developments of the company pipeline. He has extensive experience leading early and
+late-phase projects in multiple disease areas, including landmark studies, regulatory
+submissions, and FDA advisory committee meetings. He played a key role in
+harmonizing SOP processes and standardizing statistical methodologies within
+Boehringer Ingelheim. Dacheng has over 40 publications in areas of clinical research,
+trial design, statistical methodologies, and machine learning.
+</p>
+
+
+<h4>Abstract</h4>
+
+Drug development is a highly complex process involving substantial
+investment and long cycle time in a complex regulatory and commercial environment.
+Pharma R&amp;D has been facing major challenges in the past decades, due to e.g.
+substantial increase of drug development cost, high failure rate, high economic
+pressures and regulatory hurdles. With the advancement of AI and machine learning,
+coupled with the availability of multiple sources of data including clinical trial and real
+world data, data science has the potential of improving the productivity of Pharma R&amp;D,
+particularly in evidence generation of clinical drug development. In this talk we will
+discuss some challenges of clinical drug development and provide examples of data
+science applications, such as treatment compliance, disease modeling, patient
+screening etc.
+
+</div>
+
+----
+
+
 <!--
 
 ----
