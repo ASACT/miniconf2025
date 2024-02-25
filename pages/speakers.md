@@ -160,7 +160,7 @@ insights.
 <h4>Ying Kuen (Ken) Cheung, Professor of Biostatistics in the Mailman School of Public Health, Columbia University</h4>
 
 <p>
-<img class="imgfloat" src="../docs/Ying.tif"/>
+<img class="imgfloat" src="../docs/Ying.jpg"/>
 
 Ying Kuen (Ken) Cheung, PhD, is Professor of Biostatistics in the Mailman School of Public
 Health at Columbia University. He has general interests in the development and evaluation of
@@ -211,6 +211,7 @@ statistical practices. Dacheng represents Boehringer Ingelheim at industry-wide 
 such as PhRMA clinical development working group, and leads collaborations with
 partners in the US from both industry and academia.
 
+
 Prior to his current role, Dacheng served as the Global Head of Clinical Data Sciences,
 and the US Head of Statistics, leading both US and global teams in clinical drug
 developments of the company pipeline. He has extensive experience leading early and
@@ -226,11 +227,11 @@ trial design, statistical methodologies, and machine learning.
 
 Drug development is a highly complex process involving substantial
 investment and long cycle time in a complex regulatory and commercial environment.
-Pharma R&amp;D has been facing major challenges in the past decades, due to e.g.
+Pharma R&D has been facing major challenges in the past decades, due to e.g.
 substantial increase of drug development cost, high failure rate, high economic
 pressures and regulatory hurdles. With the advancement of AI and machine learning,
 coupled with the availability of multiple sources of data including clinical trial and real
-world data, data science has the potential of improving the productivity of Pharma R&amp;D,
+world data, data science has the potential of improving the productivity of Pharma R&D,
 particularly in evidence generation of clinical drug development. In this talk we will
 discuss some challenges of clinical drug development and provide examples of data
 science applications, such as treatment compliance, disease modeling, patient
