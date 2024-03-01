@@ -155,7 +155,7 @@ insights.
 
 <div id="speaker7" style="display: flex; flex-direction: column;">
 
-<h3>PIPE: a Bayesian Projection-Based Method to Estimate Multidimensional Minimum Effective Doses Using Asymmetric Posterior Gain and ϵ-Tapering</h3>
+<h3>iPIPE: Bayesian Supervised Learning under Monotonicity with Applications in mHealth and Cancer Screening</h3>
 
 <h4>Ying Kuen (Ken) Cheung, Professor of Biostatistics in the Mailman School of Public Health, Columbia University</h4>
 
@@ -178,16 +178,7 @@ and a Fellow of the New York Academy of Medicine.
 
 <h4>Abstract</h4>
 
-This work is motivated by evaluation of multi-component treatment in randomized
-trials where there are many combinations and where each component is expected to have a
-monotone effect on outcomes. We propose a Bayesian projection-based method (called PIPE)
-to estimate the minimum effective combinations and apply an inversion approach (called iPIPE)
-to obtain interval estimation. While monotone regression in the literature typically addresses
-problems with low dimension (4 or fewer components), computation of PIPE/iPIPE can be easily
-scaled for situations with higher dimension. We also introduce an adaptive ϵ-tapering algorithm
-to be used in conjunction with PIPE to further improve accuracy. I will illustrate the methods in a
-behavioral trial and an mHealth study. This work is based on Cheung et al (2022, AOAS) and
-Cheung and Diaz (2023, JRSS-B)
+In this talk, I will introduce a new Bayesian learning method, called iPIPE, for applications where monotonicity holds.  Briefly, we formulate the estimation of monotone response surface of multiple factors as the inverse of an iteration of partially ordered classifier ensembles. Each ensemble (called PIPE-classifiers) is a projection of Bayes classifiers on the constrained space. We prove the inverse of PIPE-classifiers (iPIPE) exists, and propose algorithms to efficiently compute iPIPE by reducing the space over which optimization is conducted. The methods are applied in analysis and simulation settings where the surface dimension is higher than what the isotonic regression literature typically considers. Simulation shows iPIPE-based credible intervals achieve nominal coverage probability and are more precise compared to unconstrained estimation. 
 
 </div>
 
