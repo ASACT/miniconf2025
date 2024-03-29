@@ -20,7 +20,7 @@ Will Shapiro currently leads Data Insights Engineering at Flatiron, which encomp
 
 <h4>Abstract</h4>
 
-TBD
+The ML team at Flatiron Health has primarily been focused on extracting RWD from unstructured documents for the past 6 years, dramatically increasing the scale of patients we’re able to learn from. In this talk I will give an overview of some of the approaches we’ve taken to ML-extraction historically, as well as recent experiments with LLMs and foundation models. I’ll also provide a brief overview of recent applications of ML and LLMs at the Point of Care and in the context of clinical research.
 
 </div>
 
@@ -79,6 +79,37 @@ Dr. Langmead leads Amgen's efforts in the development and application of AI/ML-b
 <h4>Abstract</h4>
 
 This presentation will discuss Amgen's use of Active and Federated Learning to enhance its Generative Biology platform for engineering biologics.
+
+</div>
+
+----
+
+
+
+<div id="speaker4" style="display: flex; flex-direction: column;">
+
+<h3>Artificial Intelligence in Regulatory Decision-Making for Drug and Biological Products</h3>
+
+<h4>Tala H. Fakhouri, Associate Director for Policy Analysis, Officer of Medical Policy, Center for Drug Evaluation and Research, U.S. FDA</h4>
+
+<p>
+<img class="imgfloat" src="../docs/Chris.png"/>
+
+Tala H. Fakhouri PhD MPH is the Associate Director for Policy Analysis in the Office of Medical Policy Initiatives (OMPI), Center for Drug Evaluation and Research (CDER), Food and Drug Administration (FDA). Dr. Fakhouri manages a team tasked with developing, coordinating, and implementing medical policy with a focus on the use of Artificial Intelligence (AI) and Machine Learning (ML) in drug development. These efforts include overseeing an AI policy group, as well as engaging external stakeholders and advancing the development of regulatory science around the use of AI in drug development. Recently, she led the development and publication of a Discussion Paper; titled: “Using Artificial Intelligence and Machine Learning in the Development of Drug and Biological Products”. She also contributes to the development of medical policy related to real-world evidence (RWE) and the use of digital health technologies for medical product development. In 2023, Dr. Fakhouri was selected by the Office of Management and Budget (OMB) to serve on the Federal Committee for Statistical Methodology (FCSM) for her expertise in statistical methods.
+
+ 
+
+Prior to joining FDA, Dr. Fakhouri served as a Senior Health Scientist and Chief Statistician for the CDC’s flagship population survey, the National Health and Nutrition Examination Survey (NHANES). The NHANES program, which is conducted by the CDC’s National Center for Health Statistics (NCHS), is recognized as the premier source of nationally representative data on the health of the nation. In her role at NHANES, Dr. Fakhouri advised and provided guidance on all epidemiologic, statistical, and methodological issues related to NHANES within CDC and with external stakeholders, with special emphasis on issues related to selection bias, data linkage, and data quality. She was also responsible for designing strategies to increase survey cooperation rates including changes to recruitment protocol and procedures, changes to survey sampling and design, and developing targeted outreach materials to increase survey representativeness. In addition, Dr. Fakhouri served on the NCHS Disclosure Review Board, the Cancer Moonshot Data Science Workgroup, and co-led the FCSM Nonresponse Bias Subcommittee, which was tasked with identifying gaps in issues related to survey nonresponse and selection bias, and with providing recommendations to OMB on Federal survey standards and guidelines. Prior to joining NHANES, she served as an Epidemic Intelligence Service Officer with the CDC, and deputy lead for health surveys at ICF-Macro International. Dr. Fakhouri published over 30 government reports, peer-reviewed papers, and book chapters on chronic disease epidemiology and on methodological issues related to nonresponse bias and data quality.
+
+ 
+
+Dr. Fakhouri earned a Ph.D. in Oncological Sciences from The Huntsman Cancer Institute at the University of Utah, an MPH in Epidemiologic and Biostatistical Methods from the Johns Hopkins University School of Public Health, and a postdoctoral fellowship in molecular biology and genetics from Harvard University, and holds a BSc Medical Technology form the Jordan University of Science and Technology
+</p>
+
+
+<h4>Abstract</h4>
+
+TBD
 
 </div>
 

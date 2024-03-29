@@ -18,7 +18,7 @@ All times are in EDT.
   - 9:50 am -- 10:30 am: Advancing Clinical Development through Real-World Data, AI and Machine Learning, <a href="../speakers/#speaker2">Harry Yang, Fate Therapeutics</a>; 
   - 10:30 am -- 10:40 am: Break  
   - 10:40 am -- 11:20 am: Methods and Applications of AI/ML in Drug Discover, <a href="../speakers/#speaker3">Christopher Langmead, Amgen</a>;
-  - 11:20 am -- 12:00 pm: FDA’s Perspective on the Use of AI/ML in Drug Development, <a>Tala Fakhouri, US FDA</a>;  
+  - 11:20 am -- 12:00 pm: FDA’s Perspective on the Use of AI/ML in Drug Development, <a href="../speakers/#speaker4">Tala Fakhouri, U.S. FDA</a>;  
 
 + 12:00 pm -– 1:00 pm: Lunch
 
