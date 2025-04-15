@@ -5,9 +5,11 @@ header: no
 permalink: /program/
 ---
 
-All times are in EDT. 
+<!-- All times are in EDT.  -->
 
-+ 8:30 am -- 9:30 am: Registration
+TBD
+
+<!-- + 8:30 am -- 9:30 am: Registration
 
 + 8:30 am -- 9:30 am: Refreshment
 
@@ -31,4 +33,4 @@ All times are in EDT.
 
 + 3:50 pm -- 4:15 pm: Discussion, <a>Yi Liu, ASA CT Chapter Secretary</a>
 
-+ 4:15 pm -- 4:30 pm: Closing Remarks: <a>Professor Kun Chen</a>
++ 4:15 pm -- 4:30 pm: Closing Remarks: <a>Professor Kun Chen</a> -->

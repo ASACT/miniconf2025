@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'ASA CT Mini-Conference 2024'
+title: 'ASA CT Mini-Conference 2025'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 # slogan: 'A Flexible Theme for Jekyll'
@@ -25,12 +25,12 @@ credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll<
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://asa-ct.github.io'
-baseurl: '/miniconf2024'
+url: 'https://asact.github.io'
+baseurl: '/miniconf2025'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: 
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://asa-ct.github.io/miniconf2024/images/'
+urlimg: 'https://asact.github.io/miniconf2025/images/'
 
 
 # Logo size is 600x80 pixels
@@ -112,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: Lijun Wang     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: Lijun Wang     # Default author for posts
 
 
 
@@ -192,8 +192,8 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    twitter   : 
+    facebook  : 
 
 
 #        ____  _

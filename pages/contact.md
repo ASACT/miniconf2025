@@ -5,8 +5,8 @@ header: no
 permalink : "/contact/"
 ---
 
-+ For inqures about the conference, please contact Professor Kun Chen at kun.chen@uconn.edu.
+- For inqures about the conference, please contact Birol Emir at <Birol.Emir@pfizer.com>.
 
-+ For issues related to website, please contact Jun Jin at jun.jin@uconn.edu.
+- For issues related to website, please contact Lijun Wang at <lijun.wang@yale.edu>.
 
 
