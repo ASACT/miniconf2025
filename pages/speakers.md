@@ -22,7 +22,6 @@ Mark, who pioneered the widely acclaimed targeted maximum likelihood estimator (
 
 </div> -->
 
-----
 
 <div id="speaker2" style="display: flex; flex-direction: column;">
 
@@ -34,7 +33,6 @@ Mark, who pioneered the widely acclaimed targeted maximum likelihood estimator (
 Pallavi will highlight current regulatory thinking in the area and provide salient aspects of relevant guidelines aimed at fostering innovation in drug development. 
 </p>
 
-----
 
 <div id="speaker3" style="display: flex; flex-direction: column;">
 
@@ -45,9 +43,6 @@ Pallavi will highlight current regulatory thinking in the area and provide salie
 
 From the perspective of pharmaceutical industry, Mingyang will share pertinent experiences with reference to alternative sensitivity analysis strategies in dealing with the issue of unmeasured confounding when incorporating external controls in RCTs. 
 </p>
-
-
-----
 
 
 
@@ -62,8 +57,6 @@ Miguel, who has played a pivotal role in the introduction of the target trial em
 
 </p>
 
-
-----
 
 <div id="speaker5" style="display: flex; flex-direction: column;">
 
