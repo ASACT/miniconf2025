@@ -21,7 +21,6 @@ permalink: /committees/
 #### Finance & Registration
 
 - [Guanyu (Tony) Tong](https://ysph.yale.edu/profile/guangyu-tong/), Yale University
-- [Leying Guan](https://ysph.yale.edu/profile/leying-guan/), Yale University
 
 #### Website 
 
