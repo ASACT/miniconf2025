@@ -17,4 +17,4 @@ permalink: /registration/
 We offer discounts for students and postdocs. To obtain a coupon code, please contact us at <ctchapterasa@gmail.com>.
 
 
-Registration is now open through [eventbrite]() (!TBD!). 
+Registration is now open through [eventbrite](https://www.eventbrite.com/e/1323730636969?aff=oddtdtcreator). 
