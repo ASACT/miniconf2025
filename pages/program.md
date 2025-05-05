@@ -14,7 +14,7 @@ All times are in EDT.
 
 - 9:00 am -- 9:10 am: Opening Remarks and Welcome
   - **Birol Emir, ASA CT Chapter Vice President**
-  - **Steve, Yale University School of Public Health**
+  - **Steve Ma, Yale University School of Public Health**
 
 - 9:10 am -- 12:00 pm: Scientific Session I
   - 9:10 am – 9:55 am: **Mark van der Laan, UC Berkeley**
